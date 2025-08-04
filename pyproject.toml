@@ -73,6 +73,11 @@ pymupdf4llm = "^0.0.21"
 rank-bm25 = "^0.2.2"
 nest-asyncio = "^1.6.0"
 llama-cloud-services = "^0.6.51"
+requests = "^2.32.4"
+voyageai = "^0.2.0"
+qdrant-client = "^1.7.0"
+fastembed = "^0.7.1"
+numpy = "^1.24.0"
 
 [build-system]
 requires = ["poetry-core"]
